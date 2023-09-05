@@ -8,8 +8,8 @@ Summier pitch document
 Encourage look into mobile apps
 -------------------week 2------------------------------
 Pitch document
+Example external apps (eg Tinder, ...)
 Example documents (bad/good)
-Example external projects (eg Tinder, ...)
 Explain group work
 Explain focus (depth vs breath vs devops)
 -------------------week 3------------------------------
