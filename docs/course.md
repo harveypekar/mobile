@@ -8,7 +8,7 @@ Welcome to the course! It doesn't matter if you chose it voluntarily, look forwa
 * To do this in a general way, so we learn how to figure this out on your own for eg. VR applications.
 * To practice several soft skills : writing a pitch, presenting a project, and writing a report.
 
-The reasoning behind it is simple. There's not that much to teach about mobile applications, so a project based course seems obvious. Even then, 6 credits is a lot, so we added practicing soft skills. This is not an arbitrary descision. In the industry, mobile applications are developed in a small team (less than 10 programmers), and it's important that you can propose and defend features and improvment. This is also generally true in the domain of digital experiences, where programmers are expected to discuss directly with artists and designers.
+The reasoning behind it is simple. There's not that much to teach about mobile applications, so a project based course seems obvious. Even then, 6 credits is a lot, so we added practicing soft skills. This is not an arbitrary decision. In the industry, mobile applications are developed in a small team (less than 10 programmers), and it's important that you can propose and defend features and improvement. This is also generally true in the domain of digital experiences, where programmers are expected to discuss directly with artists and designers.
 
 An additional motivation was direct feedback from interns about what is missing from the entire degree. If you're surprised to find things like code quality in this course, it's because it is a bridge to your internship.
 
@@ -16,18 +16,18 @@ In short, I hope that you will learn a lot of things in this course. Perhaps a b
 
 ## Evaluation
 
-Evaluation of this course is a bit complicated, as you will be graded on 4 seperate things:
+Evaluation of this course is a bit complicated, as you will be graded on 4 separate things:
 
 1. Your pitch
 2. Your presentation
 3. Your report 
-4. Your defence
+4. Your defense
 
-This might be confusing, as the app you've made doesn't seem to be covered by any of these. Don't be fooled. All of these evaluations are testing whether you've thought about the application you're going to / have been implemeting. The reasoning behind evaluating like this is simple: if you are employed as a mobile developer, you will almost always have no more than a handful of technical (programming) collegues, or even none at all. This means that you would interface with non-technical people a lot, which means explaining the work you have, or are going to do. While you've already have learned some of these skills in another course, this time you will propose/defend the work you have actually done / will actually do. 
+This might be confusing, as the app you've made doesn't seem to be covered by any of these. Don't be fooled. All of these evaluations are testing whether you've thought about the application you're going to / have been implementing. The reasoning behind evaluating like this is simple: if you are employed as a mobile developer, you will almost always have no more than a handful of technical (programming) colleagues, or even none at all. This means that you would interface with non-technical people a lot, which means explaining the work you have, or are going to do. While you've already have learned some of these skills in another course, this time you will propose/defend the work you have actually done / will actually do. 
 
 ### Pitch
 
-You will write a pitch document for your app. A pitch is basically a proposal. A common pitch is the "elevator pitch". This is a 30 second talk, meant to sell an idea for an app. Basically, you're trying to convince someone that your idea is good, often with the idea that it's worth investing in. Another would be a "statement of work", which propose any kind of work done by one company for another. This can be several pages, or several hundreds of pages.
+You will write a pitch document for your app. A pitch is basically a proposal for something that needs to be made, and it aims to receive approval or funding. A common pitch is the "elevator pitch". This is a 30 second talk, meant to sell an idea for an app. Basically, you're trying to convince someone that your idea is good, often with the idea that it's worth investing in. Another would be a "statement of work", which propose any kind of work done by one company for another. This can be several pages, or several hundreds of pages.
 The proposal you will write lies somewhere at the short end. The minimum is one full page (A4). The limit of length would be 2 A4 pages. Your proposal should contain the following sections:
 
 #### Description
