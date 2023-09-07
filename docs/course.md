@@ -8,7 +8,9 @@ Welcome to the course! It doesn't matter if you chose it voluntarily, look forwa
 * To do this in a general way, so we learn how to figure this out on your own for eg. VR applications.
 * To practice several soft skills : writing a pitch, presenting a project, and writing a report.
 
-The reasoning behind it is simple. There's not that much to teach about mobile applications, so a project based course seems obvious. Even then, 6 credits is a lot, so we added practicing soft skills. This is not an arbitrary decision. In the industry, mobile applications are developed in a small team (less than 10 programmers), and it's important that you can propose and defend features and improvement. This is also generally true in the domain of digital experiences, where programmers are expected to discuss directly with artists and designers.
+You will do this by designing, implementing, and pitching a mobile app. "A mobile app" is a very specific term, it needs to be an app that specifically works well on mobile. We explain this in more detail in "Design of a mobile application" /* TODO make proper link */
+
+The reasoning behind the structure of the course is simple. There's not that much to teach about mobile applications, so a project based course seems obvious. Even then, 6 credits is a lot, so we added practicing soft skills. This is not an arbitrary decision. In the industry, mobile applications are developed in a small team (less than 10 programmers), and it's important that you can propose and defend features and improvement. This is also generally true in the domain of digital experiences, where programmers are expected to discuss directly with artists and designers. If they make a mistake in what they ask of you, you're the one paying the price by changing your work, so it pays to catch errors as soon as possible!
 
 An additional motivation was direct feedback from interns about what is missing from the entire degree. If you're surprised to find things like code quality in this course, it's because it is a bridge to your internship.
 
@@ -28,7 +30,7 @@ This might be confusing, as the app you've made doesn't seem to be covered by an
 ### Pitch
 
 You will write a pitch document for your app. A pitch is basically a proposal for something that needs to be made, and it aims to receive approval or funding. A common pitch is the "elevator pitch". This is a 30 second talk, meant to sell an idea for an app. Basically, you're trying to convince someone that your idea is good, often with the idea that it's worth investing in. Another would be a "statement of work", which propose any kind of work done by one company for another. This can be several pages, or several hundreds of pages.
-The proposal you will write lies somewhere at the short end. The minimum is one full page (A4). The limit of length would be 2 A4 pages. Your proposal should contain the following sections:
+The proposal you will write lies somewhere at the short end. The minimum is one full page (A4). /* TODO add amount of words */ The limit of length would be 2 A4 pages. Your proposal should contain the following sections:
 
 #### Description
 
@@ -60,7 +62,10 @@ Just a quick note : need to have and nice to have are unrelated to the scope of 
 
 #### Risks
 
-You have to write a list of risks. These are things you know might turn out to be a problem. Typical examples are "I don't if this feature is possible in this framework", "This feature might not be a good user experience, as I haven't implemented it yet". Less typical, but equally good are "I'm a procrastinator, and I know I will be tempted to start a week before it's due." While this might seem pointless 
+You have to write a list of risks. These are things you know might turn out to be a problem. Typical examples are "I don't if this feature is possible in this framework", "This feature might not be a good user experience, as I haven't implemented it yet". Less typical, but equally good are "I'm a procrastinator, and I know I will be tempted to start a week before it's due.". While this might seem pointless in the moment, we'll look back on this during the exam. It's not something that is important for your grades, but it's an interesting data point on how well you know yourself. 
+
+## Design of mobile applications
+
 
 ## Glossary
 
