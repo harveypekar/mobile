@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "mobile-book"
+version = "0.1.0"
+description = ""
+authors = [
+    "Daan Nijs <daan.nijs@ucll.be>",
+    "Dries Decuyper <dries.decuyper@ucll.be>"
+    ]
+readme = "README.md"
+packages = [{include = "mobile_book"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

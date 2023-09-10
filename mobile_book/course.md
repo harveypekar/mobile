@@ -67,7 +67,6 @@ You have to write a list of risks. These are things you know might turn out to b
 ## Design of mobile applications
 
 
-
 ## Glossary
 
 
