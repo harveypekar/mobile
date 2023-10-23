@@ -1,5 +1,9 @@
 [tool.poetry]
+<<<<<<< HEAD
 name = "Mobile Applications"
+=======
+name = "mobile-book"
+>>>>>>> 941344a9334b460d368607f42c63a421cd84902e
 version = "0.1.0"
 description = ""
 authors = [
@@ -7,6 +11,7 @@ authors = [
     "Dries Decuyper <dries.decuyper@ucll.be>"
     ]
 readme = "README.md"
+<<<<<<< HEAD
 packages = []
 
 [tool.poetry.dependencies]
@@ -15,6 +20,12 @@ jupyter-book = "^0.15.1"
 jupytercards = "^2.5.5"
 jupyterquiz = "^2.6.2"
 
+=======
+packages = [{include = "mobile_book"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+>>>>>>> 941344a9334b460d368607f42c63a421cd84902e
 
 [build-system]
 requires = ["poetry-core"]
