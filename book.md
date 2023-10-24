@@ -2,7 +2,9 @@
 
 ## Introduction
 
-Welcome to the course! It doesn't matter if you chose it voluntarily, look forward to it, if it's part of your specialization and you ambivalent about it, or an exceptional set of circumstances forces you to take it. This course has been designed with 3 goals in mind:
+Welcome to the course! It doesn't matter if you chose it voluntarily, look forward to it, if it's part of your specialization and you ambivalent about it, or an exceptional set of circumstances forces you to take it. Welcome.
+
+This course has been designed with 3 goals in mind:
 
 * To learn about mobile development: it's specific technologies, usage context, and publishing model.
 * To do this in a general way, so we learn how to figure this out on your own for eg. VR applications.
@@ -24,7 +26,7 @@ All offline material in this course will be provided in English. If anything is 
 
 All deliverables (documents you hand in on Toledo) are allowed to be in either English (any spelling) or Dutch. If you choose to write in Dutch, we encourage you to use English for IT specific terms.
 
-We also encourage you to use a spellchecker, or use ChatGPT to have an initial text that you can correct and modify. You will never lose points in this course for language mistakes, 
+We also encourage you to use a spellchecker, or use ChatGPT to have an initial text that you can correct and modify. You will never lose points in this course for language mistakes, but it's good to strive for good language. 
 
 
 ## Evaluation
@@ -40,7 +42,7 @@ This might be confusing, as the app you've made doesn't seem to be covered by an
 ### Pitch
 
 You will write a pitch document for your app. A pitch is basically a proposal for something that needs to be made, and it aims to receive approval or funding. A common pitch is the "elevator pitch". This is a 30 second talk, meant to sell an idea for an app. Basically, you're trying to convince someone that your idea is good, often with the idea that it's worth investing in. Another would be a "statement of work", which propose any kind of work done by one company for another. This can be several pages, or several hundreds of pages.
-The proposal you will write lies somewhere at the short end. The minimum is one full page (A4). /* TODO add amount of words */ The limit of length would be 2 A4 pages. Your proposal should contain the following sections:
+The proposal you will write lies somewhere at the short end. The minimum is one full page (A4). The limit of length would be 2 A4 pages. Your proposal should contain the following sections:
 
 #### Header 
 
@@ -48,7 +50,7 @@ Your name (and everyone else in your group if you're doing a group work). Also a
 
 #### Description
 
-A short description of your app, one or two paragraph, and one or several images if they can clarify what you're trying to accomplish. It should also explain why you're app is "intrinsically mobile" (see section)
+A short description of your app, one or two paragraph, and optionally one or several images if they can clarify what you're trying to accomplish. It should also explain why you're app is "intrinsically mobile" (see section)
 
 For the images, you can screenshot an existing, and manually paste over your images / text. It doesn't need to look good, it needs to get the idea across. Of course you're allowed to have fun with it.
 
@@ -88,7 +90,33 @@ You have to write a list of risks. These are things you know might turn out to b
 
 ### Intrinsically mobile
 
+Your app should be 'intrinsically mobile'. This means that the app you design has to be designed to only work on smartphones, or work much better on mobile. It is easiest to illustrate with some examples
 
+#### Existing apps that are intrinsically mobile
+
+##### Instagram
+
+Instagram is a social media platform that is very focused on photo's. While you can use instagram on desktop to browse other people's posts, or post text or screenshots, the main idea is to use your phone's camera to take selfie's, pictures of coffee at a coffee shop, or while traveling. Browsing instagram is also a good fit for a mobile app : you can scroll posts for 10 seconds while waiting in line, or you can scroll too long while trying to fall asleep in bed.
+
+##### Google Maps
+
+Google maps is easy to see as intrinsically mobile: you tend to need to use it when you're on the road, away from your pc. It also has a better UX on mobile: if you want to find a route between two points on pc, you have to specify the start and the destination. On mobile, the app knows the start position, as it has access to the GPS on your device.
+
+#### Existing apps that are not intrinsically mobile
+
+##### Steam mobile app
+
+Steam is a platform to buy and play games on pc. It also allows you to add friends and chat with them. The mobile app focuses on chatting with friends and buying new games.
+You could argue that Steam as a mobile app is intrinsically mobile, as when you are behind your pc, you would like to play games. When you are on the bus, it's impossible, so at that point you would like to chat with friends and browse the store.
+In the end though, the app is a poor substitute for the full pc experience.
+
+#### Traits of intrinsically mobile apps
+
+Your app should not fit all of these criteria, but if it fits one or multiple you've probably designed an intrinsically mobile app
+
+* Allows for interactions in a flexible time scale : your app can be used to do something usefuls in 10 second, but it can also be used for longer timespans. Examples: Instagram, Tinder
+* Has to use a unique hardware feature of mobile platforms for it's core functionin (eg GPS, camera, gyroscope). Examples: Be my eyes, Google maps, Bounden. 
+* Is designed to solve a problem that occurs away from a pc. Examples: Strava, Shazam
 
 ## Glossary
 
