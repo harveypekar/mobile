@@ -1,0 +1,27 @@
+Accessibility
+    Socrates quote
+    Misophonie
+    Arachnaphobie
+    why?
+        makes is better for everyone
+        right thing to do
+    color blindness -> b&w
+        no critical information in color
+        example enemy ally / minimap
+    Text first
+        contentDescription
+    Talkback
+    Localization
+        Right to left
+        Ligature
+    IOS vs android check for reactNative, unity
+    Audio
+        Mono
+        Subtitles
+    Case study: visualization for the blind
+
+    Google accessibility scanner
+
+    Thumb zone
+
+    Celeste assist
